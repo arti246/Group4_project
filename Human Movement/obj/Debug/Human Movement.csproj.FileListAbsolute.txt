@@ -1,0 +1,60 @@
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csprojAssemblyReference.cache
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Form1.resources
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Properties.Resources.resources
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.GenerateResource.cache
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CoreCompileInputs.cache
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe.config
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.pdb
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.exe
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.pdb
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe.config
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.pdb
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csprojAssemblyReference.cache
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Form1.resources
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Properties.Resources.resources
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.GenerateResource.cache
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CoreCompileInputs.cache
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.exe
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.pdb
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.dll
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.xml
+G:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CopyComplete
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\Newtonsoft.Json.dll
+G:\Групповой проект\Human Movement\Human Movement\bin\Debug\Newtonsoft.Json.xml
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\Newtonsoft.Json.dll
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.dll
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\Newtonsoft.Json.xml
+E:\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.xml
+E:\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CopyComplete
+E:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe.config
+E:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe
+E:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.pdb
+E:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.dll
+E:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.xml
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csprojAssemblyReference.cache
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Form1.resources
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Properties.Resources.resources
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.GenerateResource.cache
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CoreCompileInputs.cache
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CopyComplete
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.exe
+E:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.pdb
+G:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe.config
+G:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.exe
+G:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Human Movement.pdb
+G:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.dll
+G:\Практика\Групповой проект\Human Movement\Human Movement\bin\Debug\System.Web.Razor.xml
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csprojAssemblyReference.cache
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Form1.resources
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human_Movement.Properties.Resources.resources
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.GenerateResource.cache
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CoreCompileInputs.cache
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.csproj.CopyComplete
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.exe
+G:\Практика\Групповой проект\Human Movement\Human Movement\obj\Debug\Human Movement.pdb
